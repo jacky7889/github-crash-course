@@ -1,8 +1,3 @@
-<script>
-
 function a(){
-    console.log('hellow')
+    console.log('hellow');
 }
-
-
-</script>
